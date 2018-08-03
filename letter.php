@@ -6,7 +6,8 @@ $address = $_POST["address"];
 $subject = $_POST["subject"];
 $other = $_POST["other"];
 echo $name;
-$msg = $name;
+$msg = $name." ".$email." ".$website." ".$address." ".$subject." ".$other;
+echo $msg;
 $msg = wordwrap($msg,70);
-mail("532630938@qq.com","IT240 Email Test File From Lei Fu",$msg);
+//mail("532630938@qq.com","This email is from your personal website",$msg);
 ?>
