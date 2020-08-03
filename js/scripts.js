@@ -1,6 +1,6 @@
 /*
    
-    Template Name : WebRes - Personal Resume Template
+    Template Name : Lei Fu
     Author : UiPasta Team
     Website : http://www.uipasta.com/
     Support : http://www.uipasta.com/support/
